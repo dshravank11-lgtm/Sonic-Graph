@@ -6,3 +6,6 @@ soldered pins for INMP441 mic
 soldered pins for 1.5 inch TFT screen
 ![Image_260403_111937](https://github.com/user-attachments/assets/a5651a50-1ba3-43d4-89ee-bf0773204df9)
 this took around 40 mins, it was my second time ever using a solder and i didnt know how to apply flux and solder peoperly until i watched a youtube tutorial
+
+
+finished wiring for components on a breadboard, took ~15 mins
