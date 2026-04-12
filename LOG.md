@@ -17,3 +17,5 @@ Challenge: Troubleshooting SPI communication between ESP32-S3 and TFT screen.
 Next Milestone: Rendering the first coordinate plane
 
 the error with uploading it was the way the inmp441 mic was wired so i wired it without the breadboard directly with jumper wires, took like 20 minutes to find out what was causing it.
+
+set up the ttp223b touch sensors, took ~10 mins
