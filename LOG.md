@@ -9,3 +9,9 @@ this took around 40 mins, it was my second time ever using a solder and i didnt 
 
 
 finished wiring for components on a breadboard, took ~15 mins
+
+14 April 
+
+Hardware Assembly
+Challenge: Troubleshooting SPI communication between ESP32-S3 and TFT screen.
+Next Milestone: Rendering the first coordinate plane
