@@ -10,7 +10,7 @@ this took around 40 mins, it was my second time ever using a solder and i didnt 
 
 finished wiring for components on a breadboard, took ~15 mins
 
-14 April 
+12 April 
 
 Hardware Assembly
 Challenge: Troubleshooting SPI communication between ESP32-S3 and TFT screen.
@@ -21,3 +21,7 @@ the error with uploading it was the way the inmp441 mic was wired so i wired it 
 set up the ttp223b touch sensors, took ~10 mins
 
 TFT turns on but dosent change colour :(, spent 6 mins troubleshooting
+
+14 April
+
+Spent 17 mins trying to get the screen to work, the backlight is turned on, but it is very faint. Will check soldering tomorrow and solder all the pins again tomorrow.
