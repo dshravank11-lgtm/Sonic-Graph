@@ -25,3 +25,8 @@ TFT turns on but dosent change colour :(, spent 6 mins troubleshooting
 14 April
 
 Spent 17 mins trying to get the screen to work, the backlight is turned on, but it is very faint. Will check soldering tomorrow and solder all the pins again tomorrow.
+
+15 April 
+unsoldered pins on the TFT and resoldered the but the backlight still didnt change colour
+also tried different ways to wire the pins but it didnt work took 40 minutes 
+for now i'll get the MAX I2S and the INMP 441 mic working ill check the screen later its likely my soldering causing the problem
